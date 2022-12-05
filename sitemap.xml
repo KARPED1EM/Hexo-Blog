@@ -317,6 +317,13 @@
 
   
   <url>
+    <loc>https://leever.cn/tags/%E8%B4%9F%E8%83%BD%E9%87%8F/</loc>
+    <lastmod>2022-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://leever.cn/tags/%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,21 +338,7 @@
   </url>
   
   <url>
-    <loc>https://leever.cn/tags/%E8%B4%9F%E8%83%BD%E9%87%8F/</loc>
-    <lastmod>2022-12-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://leever.cn/tags/%E5%8D%9A%E6%96%87%E6%89%BE%E5%9B%9E/</loc>
-    <lastmod>2022-12-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://leever.cn/tags/Steam/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -360,6 +353,13 @@
   
   <url>
     <loc>https://leever.cn/tags/Pr/</loc>
+    <lastmod>2022-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://leever.cn/tags/Steam/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://leever.cn/tags/%E5%AE%88%E6%9C%9B/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://leever.cn/tags/%E5%AE%88%E6%9C%9B/</loc>
+    <loc>https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
