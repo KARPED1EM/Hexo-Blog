@@ -584,13 +584,6 @@ template {
 }
 .fontawesomeIcon,
 .custom-hr:before,
-#article-container.post-content h1:before,
-#article-container.post-content h2:before,
-#article-container.post-content h3:before,
-#article-container.post-content h4:before,
-#article-container.post-content h5:before,
-#article-container.post-content h6:before,
-#article-container.post-content hr:before,
 #post .post-outdate-notice:before,
 .note:not(.no-icon)::before,
 .search-dialog hr:before {
@@ -706,7 +699,6 @@ template {
   transition: all 0.3s ease-out;
 }
 .custom-hr,
-#article-container.post-content hr,
 .search-dialog hr {
   position: relative;
   margin: 40px auto;
@@ -714,12 +706,10 @@ template {
   width: calc(100% - 4px);
 }
 .custom-hr:hover:before,
-#article-container.post-content hr:hover:before,
 .search-dialog hr:hover:before {
   left: calc(95% - 20px);
 }
 .custom-hr:before,
-#article-container.post-content hr:before,
 .search-dialog hr:before {
   position: absolute;
   top: -10px;
@@ -4955,118 +4945,6 @@ h1.page-title + .tag-cloud-list {
 }
 #article-container hr {
   margin: 20px 0;
-}
-#article-container.post-content h1,
-#article-container.post-content h2,
-#article-container.post-content h3,
-#article-container.post-content h4,
-#article-container.post-content h5,
-#article-container.post-content h6 {
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  -o-transition: all 0.2s ease-out;
-  -ms-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-#article-container.post-content h1:before,
-#article-container.post-content h2:before,
-#article-container.post-content h3:before,
-#article-container.post-content h4:before,
-#article-container.post-content h5:before,
-#article-container.post-content h6:before {
-  position: absolute;
-  top: calc(50% - 7px);
-  color: #6480f9;
-  content: '\f863';
-  line-height: 1;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  -o-transition: all 0.2s ease-out;
-  -ms-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-#article-container.post-content h1:hover:before,
-#article-container.post-content h2:hover:before,
-#article-container.post-content h3:hover:before,
-#article-container.post-content h4:hover:before,
-#article-container.post-content h5:hover:before,
-#article-container.post-content h6:hover:before {
-  color: #338cff;
-}
-#article-container.post-content h1 {
-  padding-left: 32px;
-}
-#article-container.post-content h1:before {
-  margin-left: -26px;
-  font-size: 20px;
-}
-#article-container.post-content h1:hover {
-  padding-left: 38px;
-}
-#article-container.post-content h2 {
-  padding-left: 30px;
-}
-#article-container.post-content h2:before {
-  margin-left: -24px;
-  font-size: 18px;
-}
-#article-container.post-content h2:hover {
-  padding-left: 36px;
-}
-#article-container.post-content h3 {
-  padding-left: 28px;
-}
-#article-container.post-content h3:before {
-  margin-left: -22px;
-  font-size: 16px;
-}
-#article-container.post-content h3:hover {
-  padding-left: 34px;
-}
-#article-container.post-content h4 {
-  padding-left: 26px;
-}
-#article-container.post-content h4:before {
-  margin-left: -20px;
-  font-size: 14px;
-}
-#article-container.post-content h4:hover {
-  padding-left: 32px;
-}
-#article-container.post-content h5 {
-  padding-left: 24px;
-}
-#article-container.post-content h5:before {
-  margin-left: -18px;
-  font-size: 12px;
-}
-#article-container.post-content h5:hover {
-  padding-left: 30px;
-}
-#article-container.post-content h6 {
-  padding-left: 24px;
-}
-#article-container.post-content h6:before {
-  margin-left: -18px;
-  font-size: 12px;
-}
-#article-container.post-content h6:hover {
-  padding-left: 30px;
-}
-#article-container.post-content ol p,
-#article-container.post-content ul p {
-  margin: 0 0 8px;
-}
-#article-container.post-content li::marker {
-  color: #338cff;
-  font-weight: 600;
-  font-size: 1.05em;
-}
-#article-container.post-content li:hover::marker {
-  color: var(--pseudo-hover);
-}
-#article-container.post-content ul > li {
-  list-style-type: circle;
 }
 #post .tag_share:after {
   display: block;
