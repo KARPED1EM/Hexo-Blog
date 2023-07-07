@@ -77,18 +77,18 @@ div#category {
 @font-face {
   font-family:'Candyhome' ;
   src:
-      url('https://npm.elemecdn.com/hexo-static@latest/fonts/Candyhome.woff2') format('woff2'),
-  		url('https://npm.elemecdn.com/hexo-static@latest/fonts/Candyhome.woff') format('woff'),
-  		url('https://npm.elemecdn.com/hexo-static@latest/fonts/Candyhome.ttf') format('truetype');
+      url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/Candyhome.woff2') format('woff2'),
+  		url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/Candyhome.woff') format('woff'),
+  		url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/Candyhome.ttf') format('truetype');
   font-display : auto;
 }
 
 @font-face {
   font-family:'ZZAW' ;
   src:
-  		url('https://npm.elemecdn.com/hexo-static@latest/fonts/ZhuZiAWan.woff2') format('woff2'),
-  		url('https://npm.elemecdn.com/hexo-static@latest/fonts/ZhuZiAWane.woff') format('woff'),
-  		url('https://npm.elemecdn.com/hexo-static@latest/fonts/ZhuZiAWan.ttf') format('truetype');
+  		url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/ZhuZiAWan.woff2') format('woff2'),
+  		url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/ZhuZiAWane.woff') format('woff'),
+  		url('https://npm.elemecdn.com/kpd-hexo-static@latest/fonts/ZhuZiAWan.ttf') format('truetype');
   font-display : auto;
 }
 
@@ -119,50 +119,13 @@ a#site-name {
 #body-wrap{
 	background-color:rgba(0, 0, 0, 0.4);
 }
-#site-name::before{
-    opacity: 0;
-    background-color: var(--lyx-theme)!important;
-    border-radius: 8px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    -ms-border-radius: 8px;
-    -o-border-radius: 8px;
-    transition: .3s;
-    -webkit-transition: .3s;
-    -moz-transition: .3s;
-    -ms-transition: .3s;
-    -o-transition: .3s;
-    position:absolute;
-    top:0!important;
-    right:0!important;
-    width:100%;
-    height:100%;
-    content: "\f015";
-    box-shadow: 0 0 5px var(--lyx-theme);
-    font-family: "Font Awesome 6 Free";
-    text-align: center;
-    color:white;
-    line-height:34px;/*如果有溢出或者垂直不居中的现象微调一下这个参数*/
-    font-size: 20px;/*根据个人喜好*/
-}
-#site-name:hover::before{
-    opacity: 1;
-    scale:1.03;
-}
-#site-name{
-    position: relative;
-    font-size: 22px; /*一定要把字体调大点，否则效果惨不忍睹！*/
-}
-:root{
-    --lyx-theme:#338CFF /*我的主题色*/
-}
 @font-face {
   font-family: "iconfont"; /* Project id 3654627 */
   /* Color fonts */
   src: 
-       url('https://npm.elemecdn.com/hexo-static@latest/iconfont/iconfont.woff2?t=1669301300334') format('woff2'),
-       url('https://npm.elemecdn.com/hexo-static@latest/iconfont/iconfont.woff?t=1669301300334') format('woff'),
-       url('https://npm.elemecdn.com/hexo-static@latest/iconfont/iconfont.ttf?t=1669301300334') format('truetype');
+       url('https://npm.elemecdn.com/kpd-hexo-static@latest/iconfont/iconfont.woff2?t=1669301300334') format('woff2'),
+       url('https://npm.elemecdn.com/kpd-hexo-static@latest/iconfont/iconfont.woff?t=1669301300334') format('woff'),
+       url('https://npm.elemecdn.com/kpd-hexo-static@latest/iconfont/iconfont.ttf?t=1669301300334') format('truetype');
 }
 
 .iconfont {
@@ -319,7 +282,7 @@ blockquote {
 }
 
 .card-widget card-info {
-	background-image: url("https://npm.elemecdn.com/hexo-static@1.0.1/img/gura.webp");
+	background-image: url("https://npm.elemecdn.com/kpd-hexo-static@latest/img/gura.webp");
 	background-size: 220px 215px;
 	background-repeat: no-repeat;
     background-position: right bottom;
@@ -1842,7 +1805,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://npm.elemecdn.com/hexo-static@latest/img/Yoimiya.webp);
+  background: url(https://npm.elemecdn.com/kpd-hexo-static@latest/img/Yoimiya.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -1932,12 +1895,6 @@ img:not([src]) {
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
-}
-img[data-lazy-src]:not(.loaded) {
-  filter: blur(8px) brightness(1);
-}
-img[data-lazy-src].error {
-  filter: none;
 }
 .img-alt {
   margin: -10px 0 10px;
@@ -4300,13 +4257,6 @@ h1.page-title + .tag-cloud-list {
   -o-transition: all 0.5s;
   -ms-transition: all 0.5s;
   transition: all 0.5s;
-}
-#page-header:not(.not-top-img):before {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: var(--mark-bg);
-  content: '';
 }
 #page-header.full_page {
   height: 100vh;
