@@ -1,2 +1,0 @@
-Sitemap: /baidusitemap.xml
-Sitemap: /sitemap.xml
