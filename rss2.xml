@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KARPED1EM</title>
+    <link>https://leever.cn/</link>
+    
+    <atom:link href="https://leever.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>也许不常有人造访，但我仍会在这里记录我的生活乃至梦想，致那为数不多像你一样关注着我的人</description>
+    <pubDate>Sat, 21 Sep 2024 07:48:52 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>站点隐性转发以及Meta同步</title>
+      <link>https://leever.cn/posts/44772/</link>
+      <guid>https://leever.cn/posts/44772/</guid>
+      <pubDate>Mon, 02 Sep 2024 22:35:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note warning flat&quot;&gt;&lt;p&gt;本文章的部分代码由 &lt;a href=&quot;https://claude.ai/&quot;&gt;Claude 3.5 Sonnet&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/">技术笔记</category>
+      
+      
+      <category domain="https://leever.cn/tags/Html/">Html</category>
+      
+      <category domain="https://leever.cn/tags/Javascript/">Javascript</category>
+      
+      
+      <comments>https://leever.cn/posts/44772/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>博客的起源与我想讲的一些事</title>
+      <link>https://leever.cn/posts/10673/</link>
+      <guid>https://leever.cn/posts/10673/</guid>
+      <pubDate>Sat, 10 Aug 2024 15:31:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;这是新的置顶博文，本来是想直接对旧文作修改，奈何舍不得覆盖，便写一篇新的替换掉置顶。附：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/">小窝那些事</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://leever.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://leever.cn/tags/Github/">Github</category>
+      
+      
+      <comments>https://leever.cn/posts/10673/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>ATRI:不知喜悦，何来悲伤</title>
+      <link>https://leever.cn/posts/14360/</link>
+      <guid>https://leever.cn/posts/14360/</guid>
+      <pubDate>Sat, 27 Apr 2024 12:24:48 GMT</pubDate>
+      
+      <description>逐渐想不起一个人，是什么样的感觉呢？是先忘记脸，还是声音？</description>
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/">被二次元震撼</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E7%95%AA%E5%89%A7/">番剧</category>
+      
+      <category domain="https://leever.cn/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1/">恋爱</category>
+      
+      
+      <comments>https://leever.cn/posts/14360/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>时间对我们普通人来说意味着什么？</title>
+      <link>https://leever.cn/posts/11984/</link>
+      <guid>https://leever.cn/posts/11984/</guid>
+      <pubDate>Thu, 14 Dec 2023 06:32:48 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;不过是仅仅10年罢了。——</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/">被二次元震撼</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E7%95%AA%E5%89%A7/">番剧</category>
+      
+      <category domain="https://leever.cn/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      
+      <comments>https://leever.cn/posts/11984/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记：初恋</title>
+      <link>https://leever.cn/posts/34547/</link>
+      <guid>https://leever.cn/posts/34547/</guid>
+      <pubDate>Fri, 29 Sep 2023 13:35:28 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;我真的需要一个答案。&lt;/p&gt;
+&lt;p&gt;前段时间分手了，我以为我放下了，可以足够冷静地审视自己的感情问题了。但还是那个老套的狗血故事，脑海还是无法摆脱她。&lt;br&gt;我有一万个理由让自己忘记她，读过一万个来自兄弟们的笔墨，但当我打开她的朋友圈，看到一个熟悉但陌生的脸庞，像是被一股无</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1/">恋爱</category>
+      
+      <category domain="https://leever.cn/tags/%E9%95%BF%E5%A4%A7/">长大</category>
+      
+      
+      <comments>https://leever.cn/posts/34547/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>好想知道答案</title>
+      <link>https://leever.cn/posts/11465/</link>
+      <guid>https://leever.cn/posts/11465/</guid>
+      <pubDate>Fri, 15 Sep 2023 15:45:15 GMT</pubDate>
+      
+      <description>现在看来这篇博文有点情绪化了，我就暂且不公开了</description>
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1/">恋爱</category>
+      
+      <category domain="https://leever.cn/tags/%E9%95%BF%E5%A4%A7/">长大</category>
+      
+      
+      <comments>https://leever.cn/posts/11465/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>冰海战记：爱，是一种歧视</title>
+      <link>https://leever.cn/posts/43215/</link>
+      <guid>https://leever.cn/posts/43215/</guid>
+      <pubDate>Wed, 14 Dec 2022 15:35:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;这部番对我意味着什么&quot;&gt;&lt;a href=&quot;#这部番对我意味着什么&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/">被二次元震撼</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E7%95%AA%E5%89%A7/">番剧</category>
+      
+      <category domain="https://leever.cn/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      
+      <comments>https://leever.cn/posts/43215/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为博客添加帧数显示浮窗</title>
+      <link>https://leever.cn/posts/20526/</link>
+      <guid>https://leever.cn/posts/20526/</guid>
+      <pubDate>Mon, 05 Dec 2022 07:36:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;有一说一&quot;&gt;&lt;a href=&quot;#有一说一&quot; class=&quot;headerlink&quot; title=&quot;有一说一&quot;&gt;&lt;/a&gt;有一说一&lt;/h2&gt;&lt;div class=&quot;note info</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/">博客美化</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://leever.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AD%94%E6%94%B9/">魔改</category>
+      
+      
+      <comments>https://leever.cn/posts/20526/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>守望：我游戏生涯最爱的竞技游戏</title>
+      <link>https://leever.cn/posts/42071/</link>
+      <guid>https://leever.cn/posts/42071/</guid>
+      <pubDate>Fri, 25 Nov 2022 15:14:25 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;间接沉迷&quot;&gt;&lt;a href=&quot;#间接沉迷&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      <category domain="https://leever.cn/tags/%E5%AE%88%E6%9C%9B/">守望</category>
+      
+      
+      <comments>https://leever.cn/posts/42071/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>来自一年前自己的信</title>
+      <link>https://leever.cn/posts/43099/</link>
+      <guid>https://leever.cn/posts/43099/</guid>
+      <pubDate>Tue, 15 Nov 2022 16:41:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;好几个月前我收到了一封名为《来自一年前的你的信》的邮件，然而当时正好忙忘记了。于是这篇邮件尘封到现在才被我翻出来。&lt;/p&gt;
+&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E9%9A%8F%E8%AE%B0/">随记</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/">时光邮局</category>
+      
+      
+      <comments>https://leever.cn/posts/43099/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>找到了曾经博客的痕迹</title>
+      <link>https://leever.cn/posts/15185/</link>
+      <guid>https://leever.cn/posts/15185/</guid>
+      <pubDate>Sun, 18 Sep 2022 17:49:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/">小窝那些事</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/">黑历史</category>
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <comments>https://leever.cn/posts/15185/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>小窝的起源和我想讲的一些话</title>
+      <link>https://leever.cn/posts/64703/</link>
+      <guid>https://leever.cn/posts/64703/</guid>
+      <pubDate>Sun, 18 Sep 2022 14:38:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;鉴于在通过&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/">小窝那些事</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://leever.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://leever.cn/tags/Github/">Github</category>
+      
+      
+      <comments>https://leever.cn/posts/64703/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://leever.cn/posts/16107/</link>
+      <guid>https://leever.cn/posts/16107/</guid>
+      <pubDate>Wed, 14 Sep 2022 19:28:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;这是这个博客的第一个文章，用于测试且具有纪念意义&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/posts/Hello-World/Chi.jpg&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/">小窝那些事</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <comments>https://leever.cn/posts/16107/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年6月</title>
+      <link>https://leever.cn/posts/30366/</link>
+      <guid>https://leever.cn/posts/30366/</guid>
+      <pubDate>Wed, 15 Jun 2022 15:02:42 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-6-1&quot;&gt;&lt;a href=&quot;#2022-6-1&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/30366/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年5月</title>
+      <link>https://leever.cn/posts/12958/</link>
+      <guid>https://leever.cn/posts/12958/</guid>
+      <pubDate>Tue, 31 May 2022 15:56:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-5-5&quot;&gt;&lt;a href=&quot;#2022-5-5&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/12958/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年4月</title>
+      <link>https://leever.cn/posts/52895/</link>
+      <guid>https://leever.cn/posts/52895/</guid>
+      <pubDate>Wed, 27 Apr 2022 13:28:33 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-4-1&quot;&gt;&lt;a href=&quot;#2022-4-1&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/52895/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年3月</title>
+      <link>https://leever.cn/posts/47774/</link>
+      <guid>https://leever.cn/posts/47774/</guid>
+      <pubDate>Wed, 30 Mar 2022 17:16:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-3-2&quot;&gt;&lt;a href=&quot;#2022-3-2&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/47774/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年2月</title>
+      <link>https://leever.cn/posts/18079/</link>
+      <guid>https://leever.cn/posts/18079/</guid>
+      <pubDate>Mon, 28 Feb 2022 14:37:39 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-2-14&quot;&gt;&lt;a href=&quot;#2022-2-14&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/18079/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记2022年1月</title>
+      <link>https://leever.cn/posts/67143/</link>
+      <guid>https://leever.cn/posts/67143/</guid>
+      <pubDate>Fri, 28 Jan 2022 16:45:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;2022-1-19&quot;&gt;&lt;a href=&quot;#2022-1-19&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/">恋爱记</category>
+      
+      <category domain="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/">高中</category>
+      
+      
+      <comments>https://leever.cn/posts/67143/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>原来以前的我太过自以为是</title>
+      <link>https://leever.cn/posts/48365/</link>
+      <guid>https://leever.cn/posts/48365/</guid>
+      <pubDate>Wed, 19 May 2021 16:39:53 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note warning</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://leever.cn/categories/%E9%9A%8F%E8%AE%B0/">随记</category>
+      
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E6%96%87%E6%89%BE%E5%9B%9E/">博文找回</category>
+      
+      
+      <comments>https://leever.cn/posts/48365/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
