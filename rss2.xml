@@ -42,7 +42,7 @@
     </item>
     
     <item>
-      <title>博客的起源与我想讲的一些事</title>
+      <title>小窝的起源与我想讲的一些事</title>
       <link>https://leever.cn/posts/10673/</link>
       <guid>https://leever.cn/posts/10673/</guid>
       <pubDate>Sat, 10 Aug 2024 15:31:41 GMT</pubDate>
@@ -210,7 +210,7 @@
     </item>
     
     <item>
-      <title>为博客添加帧数显示浮窗</title>
+      <title>为站点添加帧数显示浮窗</title>
       <link>https://leever.cn/posts/20526/</link>
       <guid>https://leever.cn/posts/20526/</guid>
       <pubDate>Mon, 05 Dec 2022 07:36:50 GMT</pubDate>
@@ -317,9 +317,9 @@
       <category domain="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/">小窝那些事</category>
       
       
-      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
-      
       <category domain="https://leever.cn/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/">黑历史</category>
+      
+      <category domain="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
       
       
       <comments>https://leever.cn/posts/15185/#disqus_thread</comments>
