@@ -48,7 +48,7 @@ class NoticeManager {
                 </div>
                 <div class="notice-footer">
                     <button class="notice-btn notice-btn-secondary" data-action="never-show">不再提示</button>
-                    <button class="notice-btn notice-btn-primary" data-action="close">关闭</button>
+                    <button class="notice-btn notice-btn-primary" data-action="close">好的</button>
                 </div>
             </div>
         `;
