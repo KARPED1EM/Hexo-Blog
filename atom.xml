@@ -6,7 +6,7 @@
   <link href="https://leever.cn/atom.xml" rel="self"/>
   
   <link href="https://leever.cn/"/>
-  <updated>2024-09-08T06:42:43.849Z</updated>
+  <updated>2024-11-26T07:37:55.802Z</updated>
   <id>https://leever.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>占位符</title>
+    <link href="https://leever.cn/posts/47490/"/>
+    <id>https://leever.cn/posts/47490/</id>
+    <published>2024-11-26T06:14:44.000Z</published>
+    <updated>2024-11-26T07:37:55.802Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我躺在床上，没在看手机，怎么也无法入眠。才发现，没有手机已经难以让大脑思考，我失去了中学时睡前通过幻想送自己进入梦境的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时，想写点什么。上的每一节课，看的每一个视频，刷的每一篇帖子，收到的每一条消息</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="长大" scheme="https://leever.cn/tags/%E9%95%BF%E5%A4%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>站点隐性转发以及Meta同步</title>
@@ -302,9 +330,9 @@
     <category term="小窝那些事" scheme="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
     
     
-    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="黑历史" scheme="https://leever.cn/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -486,31 +514,6 @@
     <category term="恋爱记" scheme="https://leever.cn/tags/%E6%81%8B%E7%88%B1%E8%AE%B0/"/>
     
     <category term="高中" scheme="https://leever.cn/tags/%E9%AB%98%E4%B8%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>原来以前的我太过自以为是</title>
-    <link href="https://leever.cn/posts/48365/"/>
-    <id>https://leever.cn/posts/48365/</id>
-    <published>2021-05-19T16:39:53.000Z</published>
-    <updated>2024-07-09T11:00:36.939Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;note warning</summary>
-        
-      
-    
-    
-    
-    <category term="随记" scheme="https://leever.cn/categories/%E9%9A%8F%E8%AE%B0/"/>
-    
-    
-    <category term="博文找回" scheme="https://leever.cn/tags/%E5%8D%9A%E6%96%87%E6%89%BE%E5%9B%9E/"/>
     
   </entry>
   
