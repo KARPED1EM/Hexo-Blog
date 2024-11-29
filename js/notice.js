@@ -12,7 +12,7 @@ class NoticeManager {
     async init() {
         try {
             const notice = await this.fetchNoticeConfig();
-            if (!notice) return;
+            if (!notice || !notice.enable) return;
             
             const dismissedVersion = localStorage.getItem(this.storageKey);
             if (dismissedVersion === notice.version) return;
@@ -55,7 +55,6 @@ class NoticeManager {
 
         document.body.appendChild(overlay);
         
-        // 使用 setTimeout 确保过渡动画生效
         setTimeout(() => overlay.classList.add('show'), 10);
 
         this.bindEvents(overlay, notice.version);
@@ -89,7 +88,6 @@ class NoticeManager {
     }
 }
 
-// 初始化
 document.addEventListener('DOMContentLoaded', () => {
     new NoticeManager();
 });
