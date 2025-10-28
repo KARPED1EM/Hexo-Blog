@@ -28,47 +28,40 @@ div#archive {
   background: transparent!important;
 }
 @font-face {
-  font-family:'Candyhome' ;
+  font-family: 'Candyhome';
   src:
-      url('/fonts/Candyhome.woff2') format('woff2'),
-  		url('/fonts/Candyhome.woff') format('woff'),
-  		url('/fonts/Candyhome.ttf') format('truetype');
-  font-display : auto;
+    local('Candyhome'),
+    url('/fonts/Candyhome.woff2') format('woff2'),
+    url('/fonts/Candyhome.woff') format('woff');
+  font-display: swap;
 }
 
 @font-face {
-  font-family:'ZZAW' ;
+  font-family: 'ZZAW';
   src:
-  		url('/fonts/ZhuZiAWan.woff2') format('woff2'),
-  		url('/fonts/ZhuZiAWane.woff') format('woff'),
-  		url('/fonts/ZhuZiAWan.ttf') format('truetype');
-  font-display : auto;
+    local('ZZAW'),
+    url('/fonts/ZhuZiAWan.woff2') format('woff2'),
+    url('/fonts/ZhuZiAWan.woff') format('woff');
+  font-display: swap;
 }
 
-h1#site-title {
-	font-family: 'Candyhome';
-	font-weight: lighter;
-}
-
-a.categoryBar-list-link {
-	font-family: 'Candyhome'
-}
-div.article-title-link {
-	font-family: 'Candyhome'
-}
-div.author-info-name {
-	font-family: 'Candyhome'
-}
-h1.post-title {
-	font-family: 'Candyhome'
-}
+h1#site-title,
+a.categoryBar-list-link,
+div.article-title-link,
+div.author-info-name,
+h1.post-title,
 div.footer_custom_text {
-	font-family: 'Candyhome';
-	font-size: 19px
+  font-family: 'Candyhome', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
+
+div.footer_custom_text {
+  font-size: 19px;
+}
+
 a#site-name {
-	font-size: 27px
+  font-size: 27px;
 }
+
 #body-wrap{
 	background-color:rgba(0, 0, 0, 0.4);
 }
