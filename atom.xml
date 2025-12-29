@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>咔皮呆的小窝</title>
+  
+  
+  <link href="https://leever.cn/atom.xml" rel="self"/>
+  
+  <link href="https://leever.cn/"/>
+  <updated>2025-12-29T05:44:32.597Z</updated>
+  <id>https://leever.cn/</id>
+  
+  <author>
+    <name>KARPED1EM</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>占位符</title>
+    <link href="https://leever.cn/posts/47490/"/>
+    <id>https://leever.cn/posts/47490/</id>
+    <published>2024-11-26T06:14:44.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我躺在床上，没在看手机，怎么也无法入眠。才发现，没有手机已经难以让大脑思考，我失去了中学时睡前通过幻想送自己进入梦境的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时，想写点什么。上的每一节课，看的每一个视频，刷的每一篇帖子，收到的每一条消息</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="长大" scheme="https://leever.cn/tags/%E9%95%BF%E5%A4%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>站点隐性转发以及Meta同步</title>
+    <link href="https://leever.cn/posts/44772/"/>
+    <id>https://leever.cn/posts/44772/</id>
+    <published>2024-09-02T22:35:43.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note warning flat&quot;&gt;&lt;p&gt;本文章的部分代码由 &lt;a href=&quot;https://claude.ai/&quot;&gt;Claude 3.5 Sonnet&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="技术笔记" scheme="https://leever.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Html" scheme="https://leever.cn/tags/Html/"/>
+    
+    <category term="Javascript" scheme="https://leever.cn/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小窝的起源与我想讲的一些事</title>
+    <link href="https://leever.cn/posts/10673/"/>
+    <id>https://leever.cn/posts/10673/</id>
+    <published>2024-08-10T15:31:41.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;这是新的置顶博文，本来是想直接对旧文作修改，奈何舍不得覆盖，便写一篇新的替换掉置顶。附：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="小窝那些事" scheme="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+    
+    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://leever.cn/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://leever.cn/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ATRI:不知喜悦，何来悲伤</title>
+    <link href="https://leever.cn/posts/14360/"/>
+    <id>https://leever.cn/posts/14360/</id>
+    <published>2024-04-27T12:24:48.000Z</published>
+    <updated>2025-12-29T05:44:32.596Z</updated>
+    
+    
+    <summary type="html">逐渐想不起一个人，是什么样的感觉呢？是先忘记脸，还是声音？</summary>
+    
+    
+    
+    <category term="被二次元震撼" scheme="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/"/>
+    
+    
+    <category term="番剧" scheme="https://leever.cn/tags/%E7%95%AA%E5%89%A7/"/>
+    
+    <category term="感悟" scheme="https://leever.cn/tags/%E6%84%9F%E6%82%9F/"/>
+    
+    <category term="恋爱" scheme="https://leever.cn/tags/%E6%81%8B%E7%88%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间对我们普通人来说意味着什么？</title>
+    <link href="https://leever.cn/posts/11984/"/>
+    <id>https://leever.cn/posts/11984/</id>
+    <published>2023-12-14T06:32:48.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不过是仅仅10年罢了。——</summary>
+        
+      
+    
+    
+    
+    <category term="被二次元震撼" scheme="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/"/>
+    
+    
+    <category term="番剧" scheme="https://leever.cn/tags/%E7%95%AA%E5%89%A7/"/>
+    
+    <category term="感悟" scheme="https://leever.cn/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好想知道答案</title>
+    <link href="https://leever.cn/posts/11465/"/>
+    <id>https://leever.cn/posts/11465/</id>
+    <published>2023-09-15T15:45:15.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+    <summary type="html">现在看来这篇博文有点情绪化了，我就暂且不公开了</summary>
+    
+    
+    
+    <category term="生活" scheme="https://leever.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="恋爱" scheme="https://leever.cn/tags/%E6%81%8B%E7%88%B1/"/>
+    
+    <category term="长大" scheme="https://leever.cn/tags/%E9%95%BF%E5%A4%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冰海战记：爱，是一种歧视</title>
+    <link href="https://leever.cn/posts/43215/"/>
+    <id>https://leever.cn/posts/43215/</id>
+    <published>2022-12-14T15:35:13.000Z</published>
+    <updated>2025-12-29T05:44:32.596Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;这部番对我意味着什么&quot;&gt;&lt;a href=&quot;#这部番对我意味着什么&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="被二次元震撼" scheme="https://leever.cn/categories/%E8%A2%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9C%87%E6%92%BC/"/>
+    
+    
+    <category term="番剧" scheme="https://leever.cn/tags/%E7%95%AA%E5%89%A7/"/>
+    
+    <category term="感悟" scheme="https://leever.cn/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为站点添加帧数显示浮窗</title>
+    <link href="https://leever.cn/posts/20526/"/>
+    <id>https://leever.cn/posts/20526/</id>
+    <published>2022-12-05T07:36:50.000Z</published>
+    <updated>2025-12-29T05:44:32.596Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;有一说一&quot;&gt;&lt;a href=&quot;#有一说一&quot; class=&quot;headerlink&quot; title=&quot;有一说一&quot;&gt;&lt;/a&gt;有一说一&lt;/h2&gt;&lt;div class=&quot;note info</summary>
+        
+      
+    
+    
+    
+    <category term="博客美化" scheme="https://leever.cn/categories/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Butterfly" scheme="https://leever.cn/tags/Butterfly/"/>
+    
+    <category term="魔改" scheme="https://leever.cn/tags/%E9%AD%94%E6%94%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来自一年前自己的信</title>
+    <link href="https://leever.cn/posts/43099/"/>
+    <id>https://leever.cn/posts/43099/</id>
+    <published>2022-11-15T16:41:55.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;好几个月前我收到了一封名为《来自一年前的你的信》的邮件，然而当时正好忙忘记了。于是这篇邮件尘封到现在才被我翻出来。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="随记" scheme="https://leever.cn/categories/%E9%9A%8F%E8%AE%B0/"/>
+    
+    
+    <category term="时光邮局" scheme="https://leever.cn/tags/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>找到了曾经博客的痕迹</title>
+    <link href="https://leever.cn/posts/15185/"/>
+    <id>https://leever.cn/posts/15185/</id>
+    <published>2022-09-18T17:49:08.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="小窝那些事" scheme="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+    
+    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="黑历史" scheme="https://leever.cn/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小窝的起源和我想讲的一些话</title>
+    <link href="https://leever.cn/posts/64703/"/>
+    <id>https://leever.cn/posts/64703/</id>
+    <published>2022-09-18T14:38:43.000Z</published>
+    <updated>2025-12-29T05:44:32.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;鉴于在通过&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="小窝那些事" scheme="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+    
+    <category term="博客" scheme="https://leever.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://leever.cn/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://leever.cn/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://leever.cn/posts/16107/"/>
+    <id>https://leever.cn/posts/16107/</id>
+    <published>2022-09-14T19:28:00.000Z</published>
+    <updated>2025-12-29T05:44:32.596Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;这是这个博客的第一个文章，用于测试且具有纪念意义&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/posts/Hello-World/Chi.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="小窝那些事" scheme="https://leever.cn/categories/%E5%B0%8F%E7%AA%9D%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+    
+    <category term="测试" scheme="https://leever.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>

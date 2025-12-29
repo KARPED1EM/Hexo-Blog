@@ -1,0 +1,108 @@
+.notice-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.notice-overlay.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.notice-container {
+    background: white;
+    border-radius: 8px;
+    padding: 24px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: scale(0.8);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.notice-overlay.show .notice-container {
+    transform: scale(1);
+}
+
+.notice-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.notice-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FE2C55;
+    margin: 0;
+}
+
+.notice-content {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+    overflow-y: auto;
+    max-height: 60vh;
+}
+
+.notice-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+}
+
+.notice-btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: opacity 0.2s;
+}
+
+.notice-btn:hover {
+    opacity: 0.8;
+}
+
+.notice-btn-primary {
+    background: #FE2C55;
+    color: white;
+}
+
+.notice-btn-secondary {
+    background: #f5f5f5;
+    color: #666;
+}
+
+@media (max-width: 480px) {
+    .notice-container {
+        width: 95%;
+        padding: 16px;
+    }
+    
+    .notice-title {
+        font-size: 18px;
+    }
+    
+    .notice-content {
+        font-size: 14px;
+    }
+    
+    .notice-btn {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+}
